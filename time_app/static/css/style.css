@@ -1,0 +1,17 @@
+.wrapper{
+    width:500px;
+    margin:0px auto;
+}
+#clock{
+    padding:30px;
+    background:rgb(27,27,27);
+    border-radius: 100px;
+}
+h1 {
+    text-align: center;
+    color:red;
+}
+h2 {
+    text-align: center;
+    color:yellow;
+}
